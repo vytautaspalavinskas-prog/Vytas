@@ -1,0 +1,1 @@
+NOMEDA V6 – 7 pagrindiniai puslapiai ir aciu.html. Netlify Drop: įkelkite visą ZIP. Kontaktų forma naudoja Netlify Forms; po įkėlimo patikrinkite Forms skiltį ir pranešimų el. paštu nustatymus. Fotografijų vietos parodų ir edukacijų puslapiuose sąmoningai pažymėtos – neįdėta nepatvirtintų nuotraukų. Kainos yra orientacinės, patvirtinkite prieš viešinimą.

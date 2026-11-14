@@ -1,0 +1,1 @@
+Bilingual LT / EN website. Upload all extracted files and the en folder to Netlify. English pages are in /en/. Language switcher is in the header. Christmas poster itself remains in Lithuanian; English description appears below it. Existing Netlify form settings are retained.
