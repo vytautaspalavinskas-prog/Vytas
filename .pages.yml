@@ -8,103 +8,103 @@ content:
   path: content/edukacijos.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Nuoroda · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Pradžia
+    label: Nuoroda · Pradžia
     type: text
   - name: text_003
-    label: A · Kūryba
+    label: Nuoroda · Kūryba
     type: text
   - name: text_004
-    label: A · Parodos
+    label: Nuoroda · Parodos
     type: text
   - name: text_005
-    label: A · Edukacijos
+    label: Nuoroda · Edukacijos
     type: text
   - name: text_006
-    label: A · Renginiai
+    label: Nuoroda · Renginiai
     type: text
   - name: text_007
-    label: A · Apie
+    label: Nuoroda · Apie
     type: text
   - name: text_008
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_009
-    label: A · EN
+    label: Nuoroda · EN
     type: text
   - name: text_010
-    label: DIV · Edukacijos · kūrybiniai susitikimai
+    label: Skyriaus žyma · Edukacijos · kūrybiniai susitikimai
     type: text
   - name: text_011
-    label: H1 · Kurkime kartu
+    label: Pagrindinė antraštė · Kurkime kartu
     type: text
   - name: text_012
-    label: P · Ne tik išmokti technikos, bet ir patirti kūrybos džiaugsmą.
+    label: Tekstas · Ne tik išmokti technikos, bet ir patirti kūrybos džiaugsmą.
     type: text
   - name: text_013
-    label: DIV · 01 · Edukacija
+    label: Skyriaus žyma · 01 · Edukacija
     type: text
   - name: text_014
-    label: H2 · Puodeliavimas
+    label: Antraštė · Puodeliavimas
     type: text
   - name: text_015
-    label: P · Keraminių puodelių dekoravimo užsiėmimas su Nomeda. Kūrybinis lai
+    label: Tekstas · Keraminių puodelių dekoravimo užsiėmimas su Nomeda. Kūrybinis lai
     type: text
   - name: text_016
-    label: 'P · Orientacinis pasiūlymas: 45 € dalyviui, kai dalyvauja bent 10 žmo'
+    label: 'Tekstas · Orientacinis pasiūlymas: 45 € dalyviui, kai dalyvauja bent 10 žmo'
     type: text
   - name: text_017
-    label: A · Teirautis dėl datos
+    label: Nuoroda · Teirautis dėl datos
     type: text
   - name: text_018
-    label: DIV · 02 · Kūrybinė patirtis
+    label: Skyriaus žyma · 02 · Kūrybinė patirtis
     type: text
   - name: text_019
-    label: H2 · Molinėjimai
+    label: Antraštė · Molinėjimai
     type: text
   - name: text_020
-    label: P · Ilgesni kūrybiniai susitikimai su moliu – nuo pirmųjų bandymų iki
+    label: Tekstas · Ilgesni kūrybiniai susitikimai su moliu – nuo pirmųjų bandymų iki
     type: text
   - name: text_021
-    label: P · Datos, trukmė, vieta ir dalyvių skaičius patvirtinami atskirai.
+    label: Tekstas · Datos, trukmė, vieta ir dalyvių skaičius patvirtinami atskirai.
     type: text
   - name: text_022
-    label: A · Gauti pasiūlymą
+    label: Nuoroda · Gauti pasiūlymą
     type: text
   - name: text_023
-    label: DIV · Kitos galimybės
+    label: Skyriaus žyma · Kitos galimybės
     type: text
   - name: text_024
-    label: H3 · Mergvakariai
+    label: Poskyrio antraštė · Mergvakariai
     type: text
   - name: text_025
-    label: P · Kūrybinė programa asmeniškai šventei. Užsiėmimo turinys derinamas
+    label: Tekstas · Kūrybinė programa asmeniškai šventei. Užsiėmimo turinys derinamas
     type: text
   - name: text_026
-    label: A · Pateikti užklausą
+    label: Nuoroda · Pateikti užklausą
     type: text
   - name: text_027
-    label: H3 · Dovanų kortelės
+    label: Poskyrio antraštė · Dovanų kortelės
     type: text
   - name: text_028
-    label: P · Padovanokite kūrybinę patirtį. Kortelės sąlygos ir galimi užsiėmi
+    label: Tekstas · Padovanokite kūrybinę patirtį. Kortelės sąlygos ir galimi užsiėmi
     type: text
   - name: text_029
-    label: A · Teirautis
+    label: Nuoroda · Teirautis
     type: text
   - name: text_030
-    label: H3 · Organizacijoms
+    label: Poskyrio antraštė · Organizacijoms
     type: text
   - name: text_031
-    label: P · Kūrybinės dirbtuvės įmonėms, bibliotekoms, kultūros centrams ir k
+    label: Tekstas · Kūrybinės dirbtuvės įmonėms, bibliotekoms, kultūros centrams ir k
     type: text
   - name: text_032
-    label: A · Aptarti renginį
+    label: Nuoroda · Aptarti renginį
     type: text
   - name: text_033
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
 - name: renginiai
   label: LT · Renginiai
@@ -112,91 +112,91 @@ content:
   path: content/renginiai.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Nuoroda · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Pradžia
+    label: Nuoroda · Pradžia
     type: text
   - name: text_003
-    label: A · Kūryba
+    label: Nuoroda · Kūryba
     type: text
   - name: text_004
-    label: A · Parodos
+    label: Nuoroda · Parodos
     type: text
   - name: text_005
-    label: A · Edukacijos
+    label: Nuoroda · Edukacijos
     type: text
   - name: text_006
-    label: A · Renginiai
+    label: Nuoroda · Renginiai
     type: text
   - name: text_007
-    label: A · Apie
+    label: Nuoroda · Apie
     type: text
   - name: text_008
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_009
-    label: A · EN
+    label: Nuoroda · EN
     type: text
   - name: text_010
-    label: DIV · Renginiai · bendradarbiavimas
+    label: Skyriaus žyma · Renginiai · bendradarbiavimas
     type: text
   - name: text_011
-    label: H1 · Susitikimai ir scena
+    label: Pagrindinė antraštė · Susitikimai ir scena
     type: text
   - name: text_012
-    label: P · Gyvas pokalbis, gera istorija ir tikras ryšys su auditorija.
+    label: Tekstas · Gyvas pokalbis, gera istorija ir tikras ryšys su auditorija.
     type: text
   - name: text_013
-    label: DIV · Renginių vedimas
+    label: Skyriaus žyma · Renginių vedimas
     type: text
   - name: text_014
-    label: H2 · Renginys prasideda nuo žmonių
+    label: Antraštė · Renginys prasideda nuo žmonių
     type: text
   - name: text_015
-    label: 'P · Nomeda Marčėnaitė veda renginius, moderuoja pokalbius, dalyvauja '
+    label: 'Tekstas · Nomeda Marčėnaitė veda renginius, moderuoja pokalbius, dalyvauja '
     type: text
   - name: text_016
-    label: A · Pakviesti Nomedą
+    label: Nuoroda · Pakviesti Nomedą
     type: text
   - name: text_017
-    label: DIV · 01
+    label: Skyriaus žyma · 01
     type: text
   - name: text_018
-    label: H3 · Renginių vedimas
+    label: Poskyrio antraštė · Renginių vedimas
     type: text
   - name: text_019
-    label: P · Šventės, kultūros renginiai, organizacijų susitikimai.
+    label: Tekstas · Šventės, kultūros renginiai, organizacijų susitikimai.
     type: text
   - name: text_020
-    label: DIV · 02
+    label: Skyriaus žyma · 02
     type: text
   - name: text_021
-    label: H3 · Pokalbių moderavimas
+    label: Poskyrio antraštė · Pokalbių moderavimas
     type: text
   - name: text_022
-    label: P · Diskusijos, konferencijos ir vieši susitikimai.
+    label: Tekstas · Diskusijos, konferencijos ir vieši susitikimai.
     type: text
   - name: text_023
-    label: DIV · 03
+    label: Skyriaus žyma · 03
     type: text
   - name: text_024
-    label: H3 · Kūrybiniai susitikimai
+    label: Poskyrio antraštė · Kūrybiniai susitikimai
     type: text
   - name: text_025
-    label: P · Autoriniai pasakojimai, pokalbiai apie meną ir edukacinės program
+    label: Tekstas · Autoriniai pasakojimai, pokalbiai apie meną ir edukacinės program
     type: text
   - name: text_026
-    label: H2 · Turite renginio idėją?
+    label: Antraštė · Turite renginio idėją?
     type: text
   - name: text_027
-    label: P · Parašykite datą, vietą, auditorijos dydį ir trumpą renginio apraš
+    label: Tekstas · Parašykite datą, vietą, auditorijos dydį ir trumpą renginio apraš
     type: text
   - name: text_028
-    label: A · Siųsti užklausą
+    label: Nuoroda · Siųsti užklausą
     type: text
   - name: text_029
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
 - name: parodos
   label: LT · Parodos
@@ -204,109 +204,109 @@ content:
   path: content/parodos.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Nuoroda · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Pradžia
+    label: Nuoroda · Pradžia
     type: text
   - name: text_003
-    label: A · Kūryba
+    label: Nuoroda · Kūryba
     type: text
   - name: text_004
-    label: A · Parodos
+    label: Nuoroda · Parodos
     type: text
   - name: text_005
-    label: A · Edukacijos
+    label: Nuoroda · Edukacijos
     type: text
   - name: text_006
-    label: A · Renginiai
+    label: Nuoroda · Renginiai
     type: text
   - name: text_007
-    label: A · Apie
+    label: Nuoroda · Apie
     type: text
   - name: text_008
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_009
-    label: A · EN
+    label: Nuoroda · EN
     type: text
   - name: text_010
-    label: DIV · Parodos · archyvas
+    label: Skyriaus žyma · Parodos · archyvas
     type: text
   - name: text_011
-    label: H1 · Parodos ir meno mugės
+    label: Pagrindinė antraštė · Parodos ir meno mugės
     type: text
   - name: text_012
-    label: P · Kūrybos susitikimai su žiūrovais Lietuvoje ir užsienyje.
+    label: Tekstas · Kūrybos susitikimai su žiūrovais Lietuvoje ir užsienyje.
     type: text
   - name: text_013
-    label: P · Atrinkti įvykiai. Parodų fotografijos dar ruošiamos; jų nepakeiči
+    label: Tekstas · Atrinkti įvykiai. Parodų fotografijos dar ruošiamos; jų nepakeiči
     type: text
   - name: text_014
-    label: DIV · 2026 · Šiauliai
+    label: Skyriaus žyma · 2026 · Šiauliai
     type: text
   - name: text_015
-    label: H2 · „Nerimta“
+    label: Antraštė · „Nerimta“
     type: text
   - name: text_016
-    label: P · Keramikos paroda · KILOWAC IX
+    label: Tekstas · Keramikos paroda · KILOWAC IX
     type: text
   - name: text_017
-    label: P · Paroda Šiaulių Didždvario gimnazijoje. Ironija ir autoironija tam
+    label: Tekstas · Paroda Šiaulių Didždvario gimnazijoje. Ironija ir autoironija tam
     type: text
   - name: text_018
-    label: A · KILOWAC
+    label: Nuoroda · KILOWAC
     type: text
   - name: text_019
-    label: DIV · 2026 · Vilnius
+    label: Skyriaus žyma · 2026 · Vilnius
     type: text
   - name: text_020
-    label: H2 · „Kita nerimo pusė“
+    label: Antraštė · „Kita nerimo pusė“
     type: text
   - name: text_021
-    label: P · ArtVilnius’26
+    label: Tekstas · ArtVilnius’26
     type: text
   - name: text_022
-    label: P · Keramikos kūrinių pristatymas, kuriame nerimas ir jo ženklai atsi
+    label: Tekstas · Keramikos kūrinių pristatymas, kuriame nerimas ir jo ženklai atsi
     type: text
   - name: text_023
-    label: A · Interviu apie projektą
+    label: Nuoroda · Interviu apie projektą
     type: text
   - name: text_024
-    label: DIV · 2025 · Vilnius
+    label: Skyriaus žyma · 2025 · Vilnius
     type: text
   - name: text_025
-    label: H2 · „Esi tuo, ką valgai“
+    label: Antraštė · „Esi tuo, ką valgai“
     type: text
   - name: text_026
-    label: P · ArtVilnius’25 · Giedra galerija
+    label: Tekstas · ArtVilnius’25 · Giedra galerija
     type: text
   - name: text_027
-    label: 'P · Keramikos darbai, kuriuose maisto motyvai įgyja naujus pavidalus '
+    label: 'Tekstas · Keramikos darbai, kuriuose maisto motyvai įgyja naujus pavidalus '
     type: text
   - name: text_028
-    label: A · ArtVilnius’25 katalogas
+    label: Nuoroda · ArtVilnius’25 katalogas
     type: text
   - name: text_029
-    label: H2 · Parodų istorija
+    label: Antraštė · Parodų istorija
     type: text
   - name: text_030
-    label: P · Nomeda Marčėnaitė yra surengusi daugiau kaip penkiasdešimt person
+    label: Tekstas · Nomeda Marčėnaitė yra surengusi daugiau kaip penkiasdešimt person
     type: text
   - name: text_031
-    label: A · Pakviesti į parodą
+    label: Nuoroda · Pakviesti į parodą
     type: text
   - name: text_032
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_033
-    label: BUTTON · ×
+    label: Mygtukas · ×
     type: text
   - name: text_034
-    label: BUTTON · ‹
+    label: Mygtukas · ‹
     type: text
   - name: text_035
-    label: BUTTON · ›
+    label: Mygtukas · ›
     type: text
   - name: image_036
     label: Nuotrauka · Nomedos Marčėnaitės parodos „Nerimta“ ekspozicija
@@ -324,7 +324,7 @@ content:
     label: Nuotrauka · Nomeda Marčėnaitė meno mugėje ArtVilnius’26
     type: image
   - name: image_041
-    label: 'Nuotrauka · '
+    label: Nuotrauka · galerijos vaizdas
     type: image
 - name: apie
   label: LT · Apie
@@ -332,282 +332,282 @@ content:
   path: content/apie.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Nuoroda · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Pradžia
+    label: Nuoroda · Pradžia
     type: text
   - name: text_003
-    label: A · Kūryba
+    label: Nuoroda · Kūryba
     type: text
   - name: text_004
-    label: A · Parodos
+    label: Nuoroda · Parodos
     type: text
   - name: text_005
-    label: A · Edukacijos
+    label: Nuoroda · Edukacijos
     type: text
   - name: text_006
-    label: A · Renginiai
+    label: Nuoroda · Renginiai
     type: text
   - name: text_007
-    label: A · Apie
+    label: Nuoroda · Apie
     type: text
   - name: text_008
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_009
-    label: A · EN
+    label: Nuoroda · EN
     type: text
   - name: text_010
-    label: DIV · Apie menininkę
+    label: Skyriaus žyma · Apie menininkę
     type: text
   - name: text_011
-    label: H1 · Nomeda Marčėnaitė
+    label: Pagrindinė antraštė · Nomeda Marčėnaitė
     type: text
   - name: text_012
-    label: P · Kūryba, kuri kalbasi su gyvenimu.
+    label: Tekstas · Kūryba, kuri kalbasi su gyvenimu.
     type: text
   - name: text_013
-    label: DIV · Menininkė · kūrėja · renginių vedėja
+    label: Skyriaus žyma · Menininkė · kūrėja · renginių vedėja
     type: text
   - name: text_014
-    label: H2 · Kūryba be vieno apibrėžimo
+    label: Antraštė · Kūryba be vieno apibrėžimo
     type: text
   - name: text_015
-    label: 'P · Nomeda Marčėnaitė kuria keramiką, skulptūrą ir tapybą, dalyvauja '
+    label: 'Tekstas · Nomeda Marčėnaitė kuria keramiką, skulptūrą ir tapybą, dalyvauja '
     type: text
   - name: text_016
-    label: 'P · Jos kūryboje susitinka kasdieniai objektai, žmogiškos istorijos, '
+    label: 'Tekstas · Jos kūryboje susitinka kasdieniai objektai, žmogiškos istorijos, '
     type: text
   - name: text_017
-    label: P · Tai redakcinis pristatymas. Išsamus CV ir biografiniai faktai bus
+    label: Tekstas · Tai redakcinis pristatymas. Išsamus CV ir biografiniai faktai bus
     type: text
   - name: text_018
-    label: DIV · Kūrybinės kryptys
+    label: Skyriaus žyma · Kūrybinės kryptys
     type: text
   - name: text_019
-    label: H3 · Keramika
+    label: Poskyrio antraštė · Keramika
     type: text
   - name: text_020
-    label: P · Autoriniai objektai, skulptūrinės formos, kasdienybės simboliai.
+    label: Tekstas · Autoriniai objektai, skulptūrinės formos, kasdienybės simboliai.
     type: text
   - name: text_021
-    label: A · Peržiūrėti kūrinius
+    label: Nuoroda · Peržiūrėti kūrinius
     type: text
   - name: text_022
-    label: H3 · Tapyba
+    label: Poskyrio antraštė · Tapyba
     type: text
   - name: text_023
-    label: P · Vaizdiniai pasakojimai ir spalvos pasaulis.
+    label: Tekstas · Vaizdiniai pasakojimai ir spalvos pasaulis.
     type: text
   - name: text_024
-    label: A · Kūrybos archyvas
+    label: Nuoroda · Kūrybos archyvas
     type: text
   - name: text_025
-    label: H3 · Susitikimai
+    label: Poskyrio antraštė · Susitikimai
     type: text
   - name: text_026
-    label: P · Edukacijos, pokalbiai ir gyvas kūrybos procesas.
+    label: Tekstas · Edukacijos, pokalbiai ir gyvas kūrybos procesas.
     type: text
   - name: text_027
-    label: A · Atrasti edukacijas
+    label: Nuoroda · Atrasti edukacijas
     type: text
   - name: text_028
-    label: DIV · Leidiniai ir tekstai
+    label: Skyriaus žyma · Leidiniai ir tekstai
     type: text
   - name: text_029
-    label: H2 · Knygos ir autoriniai tekstai
+    label: Antraštė · Knygos ir autoriniai tekstai
     type: text
   - name: text_030
-    label: H3 · „Lėlė“
+    label: Poskyrio antraštė · „Lėlė“
     type: text
   - name: text_031
-    label: P · Leidinių archyvo įrašas. Bibliografiniai duomenys tikslinami.
+    label: Tekstas · Leidinių archyvo įrašas. Bibliografiniai duomenys tikslinami.
     type: text
   - name: text_032
-    label: H3 · „Virtuvės užrašai“
+    label: Poskyrio antraštė · „Virtuvės užrašai“
     type: text
   - name: text_033
-    label: P · Leidinių archyvo įrašas. Bibliografiniai duomenys tikslinami.
+    label: Tekstas · Leidinių archyvo įrašas. Bibliografiniai duomenys tikslinami.
     type: text
   - name: text_034
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
 - name: kuryba
-  label: LT · Kuryba
+  label: LT · Kūryba
   type: file
   path: content/kuryba.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Nuoroda · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Pradžia
+    label: Nuoroda · Pradžia
     type: text
   - name: text_003
-    label: A · Kūryba
+    label: Nuoroda · Kūryba
     type: text
   - name: text_004
-    label: A · Parodos
+    label: Nuoroda · Parodos
     type: text
   - name: text_005
-    label: A · Edukacijos
+    label: Nuoroda · Edukacijos
     type: text
   - name: text_006
-    label: A · Renginiai
+    label: Nuoroda · Renginiai
     type: text
   - name: text_007
-    label: A · Apie
+    label: Nuoroda · Apie
     type: text
   - name: text_008
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_009
-    label: A · EN
+    label: Nuoroda · EN
     type: text
   - name: text_010
-    label: DIV · Kūryba · keramikos galerija
+    label: Skyriaus žyma · Kūryba · keramikos galerija
     type: text
   - name: text_011
-    label: H1 · Daiktai, turintys savo istorijas
+    label: Pagrindinė antraštė · Daiktai, turintys savo istorijas
     type: text
   - name: text_012
-    label: P · Keramika, skulptūrinės formos ir kasdienybės interpretacijos.
+    label: Tekstas · Keramika, skulptūrinės formos ir kasdienybės interpretacijos.
     type: text
   - name: text_013
-    label: DIV · Galerija
+    label: Skyriaus žyma · Galerija
     type: text
   - name: text_014
-    label: H2 · Keramikos darbai
+    label: Antraštė · Keramikos darbai
     type: text
   - name: text_015
-    label: BUTTON · Visi darbai
+    label: Mygtukas · Visi darbai
     type: text
   - name: text_016
-    label: BUTTON · 2025–2026
+    label: Mygtukas · 2025–2026
     type: text
   - name: text_017
-    label: BUTTON · Archyvas
+    label: Mygtukas · Archyvas
     type: text
   - name: text_018
-    label: H3 · Myli – nemyli
+    label: Poskyrio antraštė · Myli – nemyli
     type: text
   - name: text_019
-    label: P · 2026 · Baltas molis, glazūros
+    label: Tekstas · 2026 · Baltas molis, glazūros
     type: text
   - name: text_020
-    label: H3 · Nerimo valgymas
+    label: Poskyrio antraštė · Nerimo valgymas
     type: text
   - name: text_021
-    label: P · 2026 · Baltas molis, juodas angobas
+    label: Tekstas · 2026 · Baltas molis, juodas angobas
     type: text
   - name: text_022
-    label: H3 · Naktis, kai laukiau tavęs
+    label: Poskyrio antraštė · Naktis, kai laukiau tavęs
     type: text
   - name: text_023
-    label: P · 2026 · Baltas molis, pigmentai, sidabras
+    label: Tekstas · 2026 · Baltas molis, pigmentai, sidabras
     type: text
   - name: text_024
-    label: H3 · Liepiamoji nuosaka
+    label: Poskyrio antraštė · Liepiamoji nuosaka
     type: text
   - name: text_025
-    label: P · 2025 · Juodas molis, 1200 °C
+    label: Tekstas · 2025 · Juodas molis, 1200 °C
     type: text
   - name: text_026
-    label: H3 · Juodas dubuo su gėlėtu dugnu
+    label: Poskyrio antraštė · Juodas dubuo su gėlėtu dugnu
     type: text
   - name: text_027
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_028
-    label: H3 · Tortinė
+    label: Poskyrio antraštė · Tortinė
     type: text
   - name: text_029
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_030
-    label: H3 · Dėžutė papuošalams
+    label: Poskyrio antraštė · Dėžutė papuošalams
     type: text
   - name: text_031
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_032
-    label: H3 · Melsva sūrinė
+    label: Poskyrio antraštė · Melsva sūrinė
     type: text
   - name: text_033
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_034
-    label: H3 · Dubuo su ananasu
+    label: Poskyrio antraštė · Dubuo su ananasu
     type: text
   - name: text_035
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_036
-    label: H3 · Šeimos židinys
+    label: Poskyrio antraštė · Šeimos židinys
     type: text
   - name: text_037
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_038
-    label: H3 · Juodas dubuo su gėle
+    label: Poskyrio antraštė · Juodas dubuo su gėle
     type: text
   - name: text_039
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_040
-    label: H3 · Lėkštė su ornamentu
+    label: Poskyrio antraštė · Lėkštė su ornamentu
     type: text
   - name: text_041
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_042
-    label: H3 · Šeimos dubuo
+    label: Poskyrio antraštė · Šeimos dubuo
     type: text
   - name: text_043
-    label: P · Keramika
+    label: Tekstas · Keramika
     type: text
   - name: text_044
-    label: H3 · Smilkyklė
+    label: Poskyrio antraštė · Smilkyklė
     type: text
   - name: text_045
-    label: P · Porcelianas · 9 × 10 cm
+    label: Tekstas · Porcelianas · 9 × 10 cm
     type: text
   - name: text_046
-    label: H3 · Papuošalų dėžutė
+    label: Poskyrio antraštė · Papuošalų dėžutė
     type: text
   - name: text_047
-    label: P · Raudonas molis · 28 × 19 cm
+    label: Tekstas · Raudonas molis · 28 × 19 cm
     type: text
   - name: text_048
-    label: H3 · Dekoratyvinė skulptūra
+    label: Poskyrio antraštė · Dekoratyvinė skulptūra
     type: text
   - name: text_049
-    label: P · Šamotas · 26 × 16 cm
+    label: Tekstas · Šamotas · 26 × 16 cm
     type: text
   - name: text_050
-    label: DIV · Kiti kūriniai
+    label: Skyriaus žyma · Kiti kūriniai
     type: text
   - name: text_051
-    label: H2 · Archyvo katalogas
+    label: Antraštė · Archyvo katalogas
     type: text
   - name: text_052
-    label: P · Originalioje svetainėje yra ir daugiau darbų bei tų pačių objektų
+    label: Tekstas · Originalioje svetainėje yra ir daugiau darbų bei tų pačių objektų
     type: text
   - name: text_053
-    label: DIV · Susisiekime
+    label: Skyriaus žyma · Susisiekime
     type: text
   - name: text_054
-    label: H2 · Domina konkretus kūrinys?
+    label: Antraštė · Domina konkretus kūrinys?
     type: text
   - name: text_055
-    label: P · Parašykite dėl kūrinių, parodų ar bendradarbiavimo.
+    label: Tekstas · Parašykite dėl kūrinių, parodų ar bendradarbiavimo.
     type: text
   - name: text_056
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_057
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: image_058
     label: Nuotrauka · Myli – nemyli
@@ -658,158 +658,158 @@ content:
     label: Nuotrauka · Dekoratyvinė skulptūra
     type: image
 - name: aciu
-  label: LT · Aciu
+  label: LT · Ačiū
   type: file
   path: content/aciu.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Nuoroda · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · EN
+    label: Nuoroda · EN
     type: text
   - name: text_003
-    label: DIV · Užklausa
+    label: Skyriaus žyma · Užklausa
     type: text
   - name: text_004
-    label: H1 · Ačiū!
+    label: Pagrindinė antraštė · Ačiū!
     type: text
   - name: text_005
-    label: P · Jūsų žinutė pateikta.
+    label: Tekstas · Jūsų žinutė pateikta.
     type: text
   - name: text_006
-    label: P · Susisieksime su jumis nurodytu el. paštu.
+    label: Tekstas · Susisieksime su jumis nurodytu el. paštu.
     type: text
   - name: text_007
-    label: A · Grįžti į pradžią
+    label: Nuoroda · Grįžti į pradžią
     type: text
 - name: index
-  label: LT · Index
+  label: LT · Pradžia
   type: file
   path: content/index.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Nuoroda · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Pradžia
+    label: Nuoroda · Pradžia
     type: text
   - name: text_003
-    label: A · Kūryba
+    label: Nuoroda · Kūryba
     type: text
   - name: text_004
-    label: A · Parodos
+    label: Nuoroda · Parodos
     type: text
   - name: text_005
-    label: A · Edukacijos
+    label: Nuoroda · Edukacijos
     type: text
   - name: text_006
-    label: A · Renginiai
+    label: Nuoroda · Renginiai
     type: text
   - name: text_007
-    label: A · Apie
+    label: Nuoroda · Apie
     type: text
   - name: text_008
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_009
-    label: A · EN
+    label: Nuoroda · EN
     type: text
   - name: text_010
-    label: DIV · Menininkė · Keramika · Tapyba · Susitikimai
+    label: Skyriaus žyma · Menininkė · Keramika · Tapyba · Susitikimai
     type: text
   - name: text_011
-    label: H1 · Gyvenimas yra kūryba.
+    label: Pagrindinė antraštė · Gyvenimas yra kūryba.
     type: text
   - name: text_012
-    label: 'P · Kūriniai, istorijos ir susitikimai, kuriuose visada lieka vietos '
+    label: 'Tekstas · Kūriniai, istorijos ir susitikimai, kuriuose visada lieka vietos '
     type: text
   - name: text_013
-    label: A · Atrasti kūrybą
+    label: Nuoroda · Atrasti kūrybą
     type: text
   - name: text_014
-    label: A · Edukacijos
+    label: Nuoroda · Edukacijos
     type: text
   - name: text_015
-    label: DIV · Atraskite
+    label: Skyriaus žyma · Atraskite
     type: text
   - name: text_016
-    label: H2 · Skirtingos kūrybos formos
+    label: Antraštė · Skirtingos kūrybos formos
     type: text
   - name: text_017
-    label: H3 · Kūryba
+    label: Poskyrio antraštė · Kūryba
     type: text
   - name: text_018
-    label: P · Keramika, tapyba, objektai ir kūrybiniai eksperimentai.
+    label: Tekstas · Keramika, tapyba, objektai ir kūrybiniai eksperimentai.
     type: text
   - name: text_019
-    label: A · Žiūrėti darbus
+    label: Nuoroda · Žiūrėti darbus
     type: text
   - name: text_020
-    label: H3 · Edukacijos
+    label: Poskyrio antraštė · Edukacijos
     type: text
   - name: text_021
-    label: P · Puodeliavimas, molinėjimai ir kūrybiniai susitikimai.
+    label: Tekstas · Puodeliavimas, molinėjimai ir kūrybiniai susitikimai.
     type: text
   - name: text_022
-    label: A · Visos edukacijos
+    label: Nuoroda · Visos edukacijos
     type: text
   - name: text_023
-    label: H3 · Renginiai
+    label: Poskyrio antraštė · Renginiai
     type: text
   - name: text_024
-    label: P · Renginių vedimas, pokalbiai ir bendri projektai.
+    label: Tekstas · Renginių vedimas, pokalbiai ir bendri projektai.
     type: text
   - name: text_025
-    label: A · Daugiau
+    label: Nuoroda · Daugiau
     type: text
   - name: text_026
-    label: DIV · Atrinkti darbai
+    label: Skyriaus žyma · Atrinkti darbai
     type: text
   - name: text_027
-    label: H2 · Kūrybos fragmentai
+    label: Antraštė · Kūrybos fragmentai
     type: text
   - name: text_028
-    label: H3 · Myli – nemyli
+    label: Poskyrio antraštė · Myli – nemyli
     type: text
   - name: text_029
-    label: P · Baltas molis, glazūros · 2026
+    label: Tekstas · Baltas molis, glazūros · 2026
     type: text
   - name: text_030
-    label: H3 · Nerimo valgymas
+    label: Poskyrio antraštė · Nerimo valgymas
     type: text
   - name: text_031
-    label: P · Baltas molis, juodas angobas, glazūra · 2026
+    label: Tekstas · Baltas molis, juodas angobas, glazūra · 2026
     type: text
   - name: text_032
-    label: H3 · Naktis, kai laukiau tavęs
+    label: Poskyrio antraštė · Naktis, kai laukiau tavęs
     type: text
   - name: text_033
-    label: P · Baltas molis, pigmentai, sidabras · 2026
+    label: Tekstas · Baltas molis, pigmentai, sidabras · 2026
     type: text
   - name: text_034
-    label: A · Visa galerija
+    label: Nuoroda · Visa galerija
     type: text
   - name: text_035
-    label: DIV · Susitikime
+    label: Skyriaus žyma · Susitikime
     type: text
   - name: text_036
-    label: H2 · Turite klausimų ar idėją?
+    label: Antraštė · Turite klausimų ar idėją?
     type: text
   - name: text_037
-    label: P · Parašykite dėl kūrinių, edukacijų, parodų ar renginių.
+    label: Tekstas · Parašykite dėl kūrinių, edukacijų, parodų ar renginių.
     type: text
   - name: text_038
-    label: A · Susisiekti
+    label: Nuoroda · Susisiekti
     type: text
   - name: text_039
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_040
-    label: BUTTON · ×
+    label: Mygtukas · ×
     type: text
   - name: text_041
-    label: A · Susisiekti dėl dirbtuvių →
+    label: Nuoroda · Susisiekti dėl dirbtuvių →
     type: text
   - name: image_042
     label: Nuotrauka · Nomedos Marčėnaitės reprezentacinis portretas
@@ -832,957 +832,957 @@ content:
   path: content/kontaktai.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Nuoroda · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Pradžia
+    label: Nuoroda · Pradžia
     type: text
   - name: text_003
-    label: A · Kūryba
+    label: Nuoroda · Kūryba
     type: text
   - name: text_004
-    label: A · Parodos
+    label: Nuoroda · Parodos
     type: text
   - name: text_005
-    label: A · Edukacijos
+    label: Nuoroda · Edukacijos
     type: text
   - name: text_006
-    label: A · Renginiai
+    label: Nuoroda · Renginiai
     type: text
   - name: text_007
-    label: A · Apie
+    label: Nuoroda · Apie
     type: text
   - name: text_008
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
   - name: text_009
-    label: A · EN
+    label: Nuoroda · EN
     type: text
   - name: text_010
-    label: DIV · Kontaktai
+    label: Skyriaus žyma · Kontaktai
     type: text
   - name: text_011
-    label: H1 · Susisiekime
+    label: Pagrindinė antraštė · Susisiekime
     type: text
   - name: text_012
-    label: P · Dėl kūrinių, parodų, edukacijų ir renginių.
+    label: Tekstas · Dėl kūrinių, parodų, edukacijų ir renginių.
     type: text
   - name: text_013
-    label: H2 · Parašykite
+    label: Antraštė · Parašykite
     type: text
   - name: text_014
-    label: A · info.nomedos@gmail.com
+    label: Nuoroda · info.nomedos@gmail.com
     type: text
   - name: text_015
-    label: A · +370 636 04800
+    label: Nuoroda · +370 636 04800
     type: text
   - name: text_016
-    label: 'P · Užpildyta forma siunčiama per Netlify Forms. Jei forma neveiktų, '
+    label: 'Tekstas · Užpildyta forma siunčiama per Netlify Forms. Jei forma neveiktų, '
     type: text
   - name: text_017
-    label: 'P · Palikite tuščią:'
+    label: 'Tekstas · Palikite tuščią:'
     type: text
   - name: text_018
-    label: BUTTON · Siųsti užklausą
+    label: Mygtukas · Siųsti užklausą
     type: text
   - name: text_019
-    label: P · Pateikdami formą sutinkate, kad jūsų pateikti duomenys būtų naudo
+    label: Tekstas · Pateikdami formą sutinkate, kad jūsų pateikti duomenys būtų naudo
     type: text
   - name: text_020
-    label: A · Kontaktai
+    label: Nuoroda · Kontaktai
     type: text
 - name: en_edukacijos
-  label: EN · Edukacijos
+  label: EN · Workshops
   type: file
   path: content/en__edukacijos.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Link · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Home
+    label: Link · Home
     type: text
   - name: text_003
-    label: A · Artworks
+    label: Link · Artworks
     type: text
   - name: text_004
-    label: A · Exhibitions
+    label: Link · Exhibitions
     type: text
   - name: text_005
-    label: A · Workshops
+    label: Link · Workshops
     type: text
   - name: text_006
-    label: A · Events
+    label: Link · Events
     type: text
   - name: text_007
-    label: A · About
+    label: Link · About
     type: text
   - name: text_008
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_009
-    label: A · LT
+    label: Link · LT
     type: text
   - name: text_010
-    label: DIV · Workshops · creative encounters
+    label: Section label · Workshops · creative encounters
     type: text
   - name: text_011
-    label: H1 · Let’s create together
+    label: Main heading · Let’s create together
     type: text
   - name: text_012
-    label: 'P · More than learning a technique: experience the joy of creating.'
+    label: 'Text · More than learning a technique: experience the joy of creating.'
     type: text
   - name: text_013
-    label: DIV · 01 · Workshop
+    label: Section label · 01 · Workshop
     type: text
   - name: text_014
-    label: H2 · Cup decorating
+    label: Heading · Cup decorating
     type: text
   - name: text_015
-    label: P · Decorate ceramic cups with Nomeda. A creative experience for team
+    label: Text · Decorate ceramic cups with Nomeda. A creative experience for team
     type: text
   - name: text_016
-    label: 'P · Indicative price: €45 per person for groups of at least 10. For s'
+    label: 'Text · Indicative price: €45 per person for groups of at least 10. For s'
     type: text
   - name: text_017
-    label: A · Ask about dates
+    label: Link · Ask about dates
     type: text
   - name: text_018
-    label: DIV · 02 · Creative experience
+    label: Section label · 02 · Creative experience
     type: text
   - name: text_019
-    label: H2 · Clay workshops
+    label: Heading · Clay workshops
     type: text
   - name: text_020
-    label: P · Extended creative sessions with clay, from first experiments to m
+    label: Text · Extended creative sessions with clay, from first experiments to m
     type: text
   - name: text_021
-    label: P · Dates, duration, venue and group size are confirmed individually.
+    label: Text · Dates, duration, venue and group size are confirmed individually.
     type: text
   - name: text_022
-    label: A · Request an offer
+    label: Link · Request an offer
     type: text
   - name: text_023
-    label: DIV · Other options
+    label: Section label · Other options
     type: text
   - name: text_024
-    label: H3 · Hen parties
+    label: Subheading · Hen parties
     type: text
   - name: text_025
-    label: P · A creative programme for a private celebration, tailored to the o
+    label: Text · A creative programme for a private celebration, tailored to the o
     type: text
   - name: text_026
-    label: A · Send an enquiry
+    label: Link · Send an enquiry
     type: text
   - name: text_027
-    label: H3 · Gift vouchers
+    label: Subheading · Gift vouchers
     type: text
   - name: text_028
-    label: P · Give the gift of creativity. Voucher terms and available workshop
+    label: Text · Give the gift of creativity. Voucher terms and available workshop
     type: text
   - name: text_029
-    label: A · Enquire
+    label: Link · Enquire
     type: text
   - name: text_030
-    label: H3 · For organisations
+    label: Subheading · For organisations
     type: text
   - name: text_031
-    label: P · Creative workshops for companies, libraries, cultural centres and
+    label: Text · Creative workshops for companies, libraries, cultural centres and
     type: text
   - name: text_032
-    label: A · Discuss an event
+    label: Link · Discuss an event
     type: text
   - name: text_033
-    label: A · Contact
+    label: Link · Contact
     type: text
 - name: en_renginiai
-  label: EN · Renginiai
+  label: EN · Events
   type: file
   path: content/en__renginiai.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Link · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Home
+    label: Link · Home
     type: text
   - name: text_003
-    label: A · Artworks
+    label: Link · Artworks
     type: text
   - name: text_004
-    label: A · Exhibitions
+    label: Link · Exhibitions
     type: text
   - name: text_005
-    label: A · Workshops
+    label: Link · Workshops
     type: text
   - name: text_006
-    label: A · Events
+    label: Link · Events
     type: text
   - name: text_007
-    label: A · About
+    label: Link · About
     type: text
   - name: text_008
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_009
-    label: A · LT
+    label: Link · LT
     type: text
   - name: text_010
-    label: DIV · Events · collaborations
+    label: Section label · Events · collaborations
     type: text
   - name: text_011
-    label: H1 · Encounters and the stage
+    label: Main heading · Encounters and the stage
     type: text
   - name: text_012
-    label: P · Lively conversation, a good story and a genuine connection with t
+    label: Text · Lively conversation, a good story and a genuine connection with t
     type: text
   - name: text_013
-    label: DIV · Event hosting
+    label: Section label · Event hosting
     type: text
   - name: text_014
-    label: H2 · Every event starts with people
+    label: Heading · Every event starts with people
     type: text
   - name: text_015
-    label: P · Nomeda Marčėnaitė hosts events, moderates discussions, takes part
+    label: Text · Nomeda Marčėnaitė hosts events, moderates discussions, takes part
     type: text
   - name: text_016
-    label: A · Invite Nomeda
+    label: Link · Invite Nomeda
     type: text
   - name: text_017
-    label: DIV · 01
+    label: Section label · 01
     type: text
   - name: text_018
-    label: H3 · Event hosting
+    label: Subheading · Event hosting
     type: text
   - name: text_019
-    label: P · Celebrations, cultural events and organisational gatherings.
+    label: Text · Celebrations, cultural events and organisational gatherings.
     type: text
   - name: text_020
-    label: DIV · 02
+    label: Section label · 02
     type: text
   - name: text_021
-    label: H3 · Discussion moderation
+    label: Subheading · Discussion moderation
     type: text
   - name: text_022
-    label: P · Panel discussions, conferences and public conversations.
+    label: Text · Panel discussions, conferences and public conversations.
     type: text
   - name: text_023
-    label: DIV · 03
+    label: Section label · 03
     type: text
   - name: text_024
-    label: H3 · Creative encounters
+    label: Subheading · Creative encounters
     type: text
   - name: text_025
-    label: P · Personal stories, conversations about art and educational program
+    label: Text · Personal stories, conversations about art and educational program
     type: text
   - name: text_026
-    label: H2 · Planning an event?
+    label: Heading · Planning an event?
     type: text
   - name: text_027
-    label: P · Share the date, venue, audience size and a brief description so w
+    label: Text · Share the date, venue, audience size and a brief description so w
     type: text
   - name: text_028
-    label: A · Send enquiry
+    label: Link · Send enquiry
     type: text
   - name: text_029
-    label: A · Contact
+    label: Link · Contact
     type: text
 - name: en_parodos
-  label: EN · Parodos
+  label: EN · Exhibitions
   type: file
   path: content/en__parodos.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Link · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Home
+    label: Link · Home
     type: text
   - name: text_003
-    label: A · Artworks
+    label: Link · Artworks
     type: text
   - name: text_004
-    label: A · Exhibitions
+    label: Link · Exhibitions
     type: text
   - name: text_005
-    label: A · Workshops
+    label: Link · Workshops
     type: text
   - name: text_006
-    label: A · Events
+    label: Link · Events
     type: text
   - name: text_007
-    label: A · About
+    label: Link · About
     type: text
   - name: text_008
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_009
-    label: A · LT
+    label: Link · LT
     type: text
   - name: text_010
-    label: DIV · Exhibitions · archive
+    label: Section label · Exhibitions · archive
     type: text
   - name: text_011
-    label: H1 · Exhibitions and art fairs
+    label: Main heading · Exhibitions and art fairs
     type: text
   - name: text_012
-    label: P · Bringing art to audiences in Lithuania and abroad.
+    label: Text · Bringing art to audiences in Lithuania and abroad.
     type: text
   - name: text_013
-    label: P · Selected events. Exhibition photographs are being prepared; we do
+    label: Text · Selected events. Exhibition photographs are being prepared; we do
     type: text
   - name: text_014
-    label: DIV · 2026 · Šiauliai
+    label: Section label · 2026 · Šiauliai
     type: text
   - name: text_015
-    label: H2 · “Not So Serious”
+    label: Heading · “Not So Serious”
     type: text
   - name: text_016
-    label: P · Ceramics exhibition · KILOWAC IX
+    label: Text · Ceramics exhibition · KILOWAC IX
     type: text
   - name: text_017
-    label: P · An exhibition at Šiauliai Didždvaris Gymnasium. Irony and self-ir
+    label: Text · An exhibition at Šiauliai Didždvaris Gymnasium. Irony and self-ir
     type: text
   - name: text_018
-    label: A · KILOWAC
+    label: Link · KILOWAC
     type: text
   - name: text_019
-    label: DIV · 2026 · Vilnius
+    label: Section label · 2026 · Vilnius
     type: text
   - name: text_020
-    label: H2 · “The Other Side of Anxiety”
+    label: Heading · “The Other Side of Anxiety”
     type: text
   - name: text_021
-    label: P · ArtVilnius’26
+    label: Text · ArtVilnius’26
     type: text
   - name: text_022
-    label: P · A presentation of ceramic works exploring anxiety and its signs t
+    label: Text · A presentation of ceramic works exploring anxiety and its signs t
     type: text
   - name: text_023
-    label: A · Interview about the project
+    label: Link · Interview about the project
     type: text
   - name: text_024
-    label: DIV · 2025 · Vilnius
+    label: Section label · 2025 · Vilnius
     type: text
   - name: text_025
-    label: H2 · “You Are What You Eat”
+    label: Heading · “You Are What You Eat”
     type: text
   - name: text_026
-    label: P · ArtVilnius’25 · Giedra galerija
+    label: Text · ArtVilnius’25 · Giedra galerija
     type: text
   - name: text_027
-    label: P · Ceramic works in which food motifs take on new forms and meanings
+    label: Text · Ceramic works in which food motifs take on new forms and meanings
     type: text
   - name: text_028
-    label: A · ArtVilnius’25 katalogas
+    label: Link · ArtVilnius’25 katalogas
     type: text
   - name: text_029
-    label: H2 · Exhibition history
+    label: Heading · Exhibition history
     type: text
   - name: text_030
-    label: P · Nomeda Marčėnaitė has held more than fifty solo exhibitions. This
+    label: Text · Nomeda Marčėnaitė has held more than fifty solo exhibitions. This
     type: text
   - name: text_031
-    label: A · Invite to an exhibition
+    label: Link · Invite to an exhibition
     type: text
   - name: text_032
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_033
-    label: BUTTON · ×
+    label: Button · ×
     type: text
   - name: text_034
-    label: BUTTON · ‹
+    label: Button · ‹
     type: text
   - name: text_035
-    label: BUTTON · ›
+    label: Button · ›
     type: text
   - name: image_036
-    label: Nuotrauka · Nomedos Marčėnaitės parodos „Nerimta“ ekspozicija
+    label: Image · Nomedos Marčėnaitės parodos „Nerimta“ ekspozicija
     type: image
   - name: image_037
-    label: Nuotrauka · Overhead view of The Other Side of Anxiety exhibition
+    label: Image · Overhead view of The Other Side of Anxiety exhibition
     type: image
   - name: image_038
-    label: Nuotrauka · Nomeda Marčėnaitė with her ceramic installation
+    label: Image · Nomeda Marčėnaitė with her ceramic installation
     type: image
   - name: image_039
-    label: Nuotrauka · Documentation of the artwork Nervo valgymas
+    label: Image · Documentation of the artwork Nervo valgymas
     type: image
   - name: image_040
-    label: Nuotrauka · Nomeda Marčėnaitė at ArtVilnius’26
+    label: Image · Nomeda Marčėnaitė at ArtVilnius’26
     type: image
   - name: image_041
-    label: 'Nuotrauka · '
+    label: Image · gallery image
     type: image
 - name: en_apie
-  label: EN · Apie
+  label: EN · About
   type: file
   path: content/en__apie.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Link · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Home
+    label: Link · Home
     type: text
   - name: text_003
-    label: A · Artworks
+    label: Link · Artworks
     type: text
   - name: text_004
-    label: A · Exhibitions
+    label: Link · Exhibitions
     type: text
   - name: text_005
-    label: A · Workshops
+    label: Link · Workshops
     type: text
   - name: text_006
-    label: A · Events
+    label: Link · Events
     type: text
   - name: text_007
-    label: A · About
+    label: Link · About
     type: text
   - name: text_008
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_009
-    label: A · LT
+    label: Link · LT
     type: text
   - name: text_010
-    label: DIV · About the artist
+    label: Section label · About the artist
     type: text
   - name: text_011
-    label: H1 · Nomeda Marčėnaitė
+    label: Main heading · Nomeda Marčėnaitė
     type: text
   - name: text_012
-    label: P · Art that engages with life.
+    label: Text · Art that engages with life.
     type: text
   - name: text_013
-    label: DIV · Artist · creator · event host
+    label: Section label · Artist · creator · event host
     type: text
   - name: text_014
-    label: H2 · Creativity beyond a single definition
+    label: Heading · Creativity beyond a single definition
     type: text
   - name: text_015
-    label: P · Nomeda Marčėnaitė creates ceramics, sculpture and paintings, take
+    label: Text · Nomeda Marčėnaitė creates ceramics, sculpture and paintings, take
     type: text
   - name: text_016
-    label: P · Her work brings together everyday objects, human stories, irony a
+    label: Text · Her work brings together everyday objects, human stories, irony a
     type: text
   - name: text_017
-    label: P · This is an editorial introduction. A detailed CV and verified bio
+    label: Text · This is an editorial introduction. A detailed CV and verified bio
     type: text
   - name: text_018
-    label: DIV · Creative disciplines
+    label: Section label · Creative disciplines
     type: text
   - name: text_019
-    label: H3 · Ceramics
+    label: Subheading · Ceramics
     type: text
   - name: text_020
-    label: P · Original objects, sculptural forms and symbols of everyday life.
+    label: Text · Original objects, sculptural forms and symbols of everyday life.
     type: text
   - name: text_021
-    label: A · View artworks
+    label: Link · View artworks
     type: text
   - name: text_022
-    label: H3 · Painting
+    label: Subheading · Painting
     type: text
   - name: text_023
-    label: P · Visual narratives and a world of colour.
+    label: Text · Visual narratives and a world of colour.
     type: text
   - name: text_024
-    label: A · Art archive
+    label: Link · Art archive
     type: text
   - name: text_025
-    label: H3 · Encounters
+    label: Subheading · Encounters
     type: text
   - name: text_026
-    label: P · Workshops, conversations and creativity in action.
+    label: Text · Workshops, conversations and creativity in action.
     type: text
   - name: text_027
-    label: A · Discover workshops
+    label: Link · Discover workshops
     type: text
   - name: text_028
-    label: DIV · Publications and writing
+    label: Section label · Publications and writing
     type: text
   - name: text_029
-    label: H2 · Books and original writing
+    label: Heading · Books and original writing
     type: text
   - name: text_030
-    label: H3 · “The Doll”
+    label: Subheading · “The Doll”
     type: text
   - name: text_031
-    label: P · Publication archive entry. Bibliographic details are being verifi
+    label: Text · Publication archive entry. Bibliographic details are being verifi
     type: text
   - name: text_032
-    label: H3 · “Kitchen Notes”
+    label: Subheading · “Kitchen Notes”
     type: text
   - name: text_033
-    label: P · Publication archive entry. Bibliographic details are being verifi
+    label: Text · Publication archive entry. Bibliographic details are being verifi
     type: text
   - name: text_034
-    label: A · Contact
+    label: Link · Contact
     type: text
 - name: en_kuryba
-  label: EN · Kuryba
+  label: EN · Artworks
   type: file
   path: content/en__kuryba.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Link · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Home
+    label: Link · Home
     type: text
   - name: text_003
-    label: A · Artworks
+    label: Link · Artworks
     type: text
   - name: text_004
-    label: A · Exhibitions
+    label: Link · Exhibitions
     type: text
   - name: text_005
-    label: A · Workshops
+    label: Link · Workshops
     type: text
   - name: text_006
-    label: A · Events
+    label: Link · Events
     type: text
   - name: text_007
-    label: A · About
+    label: Link · About
     type: text
   - name: text_008
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_009
-    label: A · LT
+    label: Link · LT
     type: text
   - name: text_010
-    label: DIV · Artworks · ceramics gallery
+    label: Section label · Artworks · ceramics gallery
     type: text
   - name: text_011
-    label: H1 · Objects with stories of their own
+    label: Main heading · Objects with stories of their own
     type: text
   - name: text_012
-    label: P · Ceramics, sculptural forms and interpretations of everyday life.
+    label: Text · Ceramics, sculptural forms and interpretations of everyday life.
     type: text
   - name: text_013
-    label: P · Images are sourced from Nomeda Marčėnaitė’s public Wix website. T
+    label: Text · Images are sourced from Nomeda Marčėnaitė’s public Wix website. T
     type: text
   - name: text_014
-    label: DIV · Gallery
+    label: Section label · Gallery
     type: text
   - name: text_015
-    label: H2 · Ceramic works
+    label: Heading · Ceramic works
     type: text
   - name: text_016
-    label: BUTTON · All works
+    label: Button · All works
     type: text
   - name: text_017
-    label: BUTTON · 2025–2026
+    label: Button · 2025–2026
     type: text
   - name: text_018
-    label: BUTTON · Archive
+    label: Button · Archive
     type: text
   - name: text_019
-    label: H3 · Loves me, loves me not
+    label: Subheading · Loves me, loves me not
     type: text
   - name: text_020
-    label: P · 2026 · White clay, glazes
+    label: Text · 2026 · White clay, glazes
     type: text
   - name: text_021
-    label: H3 · Eating Anxiety
+    label: Subheading · Eating Anxiety
     type: text
   - name: text_022
-    label: P · 2026 · White clay, black engobe
+    label: Text · 2026 · White clay, black engobe
     type: text
   - name: text_023
-    label: H3 · The Night I Waited for You
+    label: Subheading · The Night I Waited for You
     type: text
   - name: text_024
-    label: P · 2026 · White clay, pigments, silver
+    label: Text · 2026 · White clay, pigments, silver
     type: text
   - name: text_025
-    label: H3 · Imperative Mood
+    label: Subheading · Imperative Mood
     type: text
   - name: text_026
-    label: P · 2025 · Black clay, 1200 °C
+    label: Text · 2025 · Black clay, 1200 °C
     type: text
   - name: text_027
-    label: H3 · Black Bowl with a Floral Base
+    label: Subheading · Black Bowl with a Floral Base
     type: text
   - name: text_028
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_029
-    label: H3 · Cake Stand
+    label: Subheading · Cake Stand
     type: text
   - name: text_030
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_031
-    label: H3 · Jewellery Box
+    label: Subheading · Jewellery Box
     type: text
   - name: text_032
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_033
-    label: H3 · Blue Cheese Dish
+    label: Subheading · Blue Cheese Dish
     type: text
   - name: text_034
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_035
-    label: H3 · Bowl with Pineapple
+    label: Subheading · Bowl with Pineapple
     type: text
   - name: text_036
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_037
-    label: H3 · Family Hearth
+    label: Subheading · Family Hearth
     type: text
   - name: text_038
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_039
-    label: H3 · Black Bowl with a Flower
+    label: Subheading · Black Bowl with a Flower
     type: text
   - name: text_040
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_041
-    label: H3 · Decorative Plate
+    label: Subheading · Decorative Plate
     type: text
   - name: text_042
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_043
-    label: H3 · Family Bowl
+    label: Subheading · Family Bowl
     type: text
   - name: text_044
-    label: P · Ceramics
+    label: Text · Ceramics
     type: text
   - name: text_045
-    label: H3 · Incense Burner
+    label: Subheading · Incense Burner
     type: text
   - name: text_046
-    label: P · Porcelain · 9 × 10 cm
+    label: Text · Porcelain · 9 × 10 cm
     type: text
   - name: text_047
-    label: H3 · Jewellery Box
+    label: Subheading · Jewellery Box
     type: text
   - name: text_048
-    label: P · Red clay · 28 × 19 cm
+    label: Text · Red clay · 28 × 19 cm
     type: text
   - name: text_049
-    label: H3 · Decorative Sculpture
+    label: Subheading · Decorative Sculpture
     type: text
   - name: text_050
-    label: P · Chamotte clay · 26 × 16 cm
+    label: Text · Chamotte clay · 26 × 16 cm
     type: text
   - name: text_051
-    label: DIV · More artworks
+    label: Section label · More artworks
     type: text
   - name: text_052
-    label: H2 · Archive catalogue
+    label: Heading · Archive catalogue
     type: text
   - name: text_053
-    label: P · The original website features additional artworks and alternative
+    label: Text · The original website features additional artworks and alternative
     type: text
   - name: text_054
-    label: DIV · Get in touch
+    label: Section label · Get in touch
     type: text
   - name: text_055
-    label: H2 · Interested in a particular artwork?
+    label: Heading · Interested in a particular artwork?
     type: text
   - name: text_056
-    label: P · Write to us about artworks, exhibitions or collaborations.
+    label: Text · Write to us about artworks, exhibitions or collaborations.
     type: text
   - name: text_057
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_058
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: image_059
-    label: Nuotrauka · Loves me, loves me not
+    label: Image · Loves me, loves me not
     type: image
   - name: image_060
-    label: Nuotrauka · Eating Anxiety
+    label: Image · Eating Anxiety
     type: image
   - name: image_061
-    label: Nuotrauka · The Night I Waited for You
+    label: Image · The Night I Waited for You
     type: image
   - name: image_062
-    label: Nuotrauka · Imperative Mood
+    label: Image · Imperative Mood
     type: image
   - name: image_063
-    label: Nuotrauka · Black Bowl with a Floral Base
+    label: Image · Black Bowl with a Floral Base
     type: image
   - name: image_064
-    label: Nuotrauka · Cake Stand
+    label: Image · Cake Stand
     type: image
   - name: image_065
-    label: Nuotrauka · Jewellery Box
+    label: Image · Jewellery Box
     type: image
   - name: image_066
-    label: Nuotrauka · Blue Cheese Dish
+    label: Image · Blue Cheese Dish
     type: image
   - name: image_067
-    label: Nuotrauka · Bowl with Pineapple
+    label: Image · Bowl with Pineapple
     type: image
   - name: image_068
-    label: Nuotrauka · Family Hearth
+    label: Image · Family Hearth
     type: image
   - name: image_069
-    label: Nuotrauka · Black Bowl with a Flower
+    label: Image · Black Bowl with a Flower
     type: image
   - name: image_070
-    label: Nuotrauka · Decorative Plate
+    label: Image · Decorative Plate
     type: image
   - name: image_071
-    label: Nuotrauka · Family Bowl
+    label: Image · Family Bowl
     type: image
   - name: image_072
-    label: Nuotrauka · Incense Burner
+    label: Image · Incense Burner
     type: image
   - name: image_073
-    label: Nuotrauka · Jewellery Box
+    label: Image · Jewellery Box
     type: image
   - name: image_074
-    label: Nuotrauka · Decorative Sculpture
+    label: Image · Decorative Sculpture
     type: image
 - name: en_aciu
-  label: EN · Aciu
+  label: EN · Thank you
   type: file
   path: content/en__aciu.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Link · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · LT
+    label: Link · LT
     type: text
   - name: text_003
-    label: DIV · Enquiry
+    label: Section label · Enquiry
     type: text
   - name: text_004
-    label: H1 · Thank you!
+    label: Main heading · Thank you!
     type: text
   - name: text_005
-    label: P · Your message has been submitted.
+    label: Text · Your message has been submitted.
     type: text
   - name: text_006
-    label: P · We will reply to the email address you provided.
+    label: Text · We will reply to the email address you provided.
     type: text
   - name: text_007
-    label: A · Back to home
+    label: Link · Back to home
     type: text
 - name: en_index
-  label: EN · Index
+  label: EN · Home
   type: file
   path: content/en__index.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Link · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Home
+    label: Link · Home
     type: text
   - name: text_003
-    label: A · Artworks
+    label: Link · Artworks
     type: text
   - name: text_004
-    label: A · Exhibitions
+    label: Link · Exhibitions
     type: text
   - name: text_005
-    label: A · Workshops
+    label: Link · Workshops
     type: text
   - name: text_006
-    label: A · Events
+    label: Link · Events
     type: text
   - name: text_007
-    label: A · About
+    label: Link · About
     type: text
   - name: text_008
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_009
-    label: A · LT
+    label: Link · LT
     type: text
   - name: text_010
-    label: DIV · Artist · Ceramics · Painting · Encounters
+    label: Section label · Artist · Ceramics · Painting · Encounters
     type: text
   - name: text_011
-    label: H1 · Life is creativity.
+    label: Main heading · Life is creativity.
     type: text
   - name: text_012
-    label: P · Artworks, stories and encounters with room for the unexpected.
+    label: Text · Artworks, stories and encounters with room for the unexpected.
     type: text
   - name: text_013
-    label: A · Explore the art
+    label: Link · Explore the art
     type: text
   - name: text_014
-    label: A · Workshops
+    label: Link · Workshops
     type: text
   - name: text_015
-    label: DIV · Discover
+    label: Section label · Discover
     type: text
   - name: text_016
-    label: H2 · Many forms of creativity
+    label: Heading · Many forms of creativity
     type: text
   - name: text_017
-    label: H3 · Artworks
+    label: Subheading · Artworks
     type: text
   - name: text_018
-    label: P · Ceramics, painting, objects and creative experiments.
+    label: Text · Ceramics, painting, objects and creative experiments.
     type: text
   - name: text_019
-    label: A · View artworks
+    label: Link · View artworks
     type: text
   - name: text_020
-    label: H3 · Workshops
+    label: Subheading · Workshops
     type: text
   - name: text_021
-    label: P · Cup decorating, clay workshops and creative encounters.
+    label: Text · Cup decorating, clay workshops and creative encounters.
     type: text
   - name: text_022
-    label: A · All workshops
+    label: Link · All workshops
     type: text
   - name: text_023
-    label: H3 · Events
+    label: Subheading · Events
     type: text
   - name: text_024
-    label: P · Event hosting, conversations and collaborative projects.
+    label: Text · Event hosting, conversations and collaborative projects.
     type: text
   - name: text_025
-    label: A · Learn more
+    label: Link · Learn more
     type: text
   - name: text_026
-    label: DIV · Selected works
+    label: Section label · Selected works
     type: text
   - name: text_027
-    label: H2 · Fragments of creativity
+    label: Heading · Fragments of creativity
     type: text
   - name: text_028
-    label: H3 · Loves me, loves me not
+    label: Subheading · Loves me, loves me not
     type: text
   - name: text_029
-    label: P · White clay, glazes · 2026
+    label: Text · White clay, glazes · 2026
     type: text
   - name: text_030
-    label: H3 · Eating Anxiety
+    label: Subheading · Eating Anxiety
     type: text
   - name: text_031
-    label: P · White clay, black engobe, glaze · 2026
+    label: Text · White clay, black engobe, glaze · 2026
     type: text
   - name: text_032
-    label: H3 · The Night I Waited for You
+    label: Subheading · The Night I Waited for You
     type: text
   - name: text_033
-    label: P · White clay, pigments, silver · 2026
+    label: Text · White clay, pigments, silver · 2026
     type: text
   - name: text_034
-    label: A · Full gallery
+    label: Link · Full gallery
     type: text
   - name: text_035
-    label: DIV · Let’s connect
+    label: Section label · Let’s connect
     type: text
   - name: text_036
-    label: H2 · Have a question or an idea?
+    label: Heading · Have a question or an idea?
     type: text
   - name: text_037
-    label: P · Get in touch about artworks, workshops, exhibitions or events.
+    label: Text · Get in touch about artworks, workshops, exhibitions or events.
     type: text
   - name: text_038
-    label: A · Get in touch
+    label: Link · Get in touch
     type: text
   - name: text_039
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_040
-    label: BUTTON · ×
+    label: Button · ×
     type: text
   - name: text_041
-    label: P · Christmas ornament decorating workshop · 2.5 hours · €50 per pers
+    label: Text · Christmas ornament decorating workshop · 2.5 hours · €50 per pers
     type: text
   - name: text_042
-    label: A · Enquire about the workshops →
+    label: Link · Enquire about the workshops →
     type: text
   - name: image_043
-    label: Nuotrauka · Nomedos Marčėnaitės reprezentacinis portretas
+    label: Image · Nomedos Marčėnaitės reprezentacinis portretas
     type: image
   - name: image_044
-    label: Nuotrauka · Loves me, loves me not
+    label: Image · Loves me, loves me not
     type: image
   - name: image_045
-    label: Nuotrauka · Eating Anxiety
+    label: Image · Eating Anxiety
     type: image
   - name: image_046
-    label: Nuotrauka · The Night I Waited for You
+    label: Image · The Night I Waited for You
     type: image
   - name: image_047
-    label: 'Nuotrauka · Christmas workshops with Nomeda Marčėnaitė: ornament decorat'
+    label: 'Image · Christmas workshops with Nomeda Marčėnaitė: ornament decorat'
     type: image
 - name: en_kontaktai
-  label: EN · Kontaktai
+  label: EN · Contact
   type: file
   path: content/en__kontaktai.json
   fields:
   - name: text_001
-    label: A · nomeda marčėnaitė
+    label: Link · nomeda marčėnaitė
     type: text
   - name: text_002
-    label: A · Home
+    label: Link · Home
     type: text
   - name: text_003
-    label: A · Artworks
+    label: Link · Artworks
     type: text
   - name: text_004
-    label: A · Exhibitions
+    label: Link · Exhibitions
     type: text
   - name: text_005
-    label: A · Workshops
+    label: Link · Workshops
     type: text
   - name: text_006
-    label: A · Events
+    label: Link · Events
     type: text
   - name: text_007
-    label: A · About
+    label: Link · About
     type: text
   - name: text_008
-    label: A · Contact
+    label: Link · Contact
     type: text
   - name: text_009
-    label: A · LT
+    label: Link · LT
     type: text
   - name: text_010
-    label: DIV · Contact
+    label: Section label · Contact
     type: text
   - name: text_011
-    label: H1 · Get in touch
+    label: Main heading · Get in touch
     type: text
   - name: text_012
-    label: P · For artworks, exhibitions, workshops and events.
+    label: Text · For artworks, exhibitions, workshops and events.
     type: text
   - name: text_013
-    label: H2 · Write to us
+    label: Heading · Write to us
     type: text
   - name: text_014
-    label: A · info.nomedos@gmail.com
+    label: Link · info.nomedos@gmail.com
     type: text
   - name: text_015
-    label: A · +370 636 04800
+    label: Link · +370 636 04800
     type: text
   - name: text_016
-    label: P · This form uses Netlify Forms. If it does not work, please email u
+    label: Text · This form uses Netlify Forms. If it does not work, please email u
     type: text
   - name: text_017
-    label: 'P · Leave blank:'
+    label: 'Text · Leave blank:'
     type: text
   - name: text_018
-    label: BUTTON · Send enquiry
+    label: Button · Send enquiry
     type: text
   - name: text_019
-    label: P · By submitting this form, you agree that your details will be used
+    label: Text · By submitting this form, you agree that your details will be used
     type: text
   - name: text_020
-    label: A · Contact
+    label: Link · Contact
     type: text
