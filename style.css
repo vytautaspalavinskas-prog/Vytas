@@ -45,3 +45,15 @@ header {display:flex;align-items:center;flex-wrap:wrap;gap:12px;}
 .anxiety-close{top:12px;right:15px}.anxiety-prev{left:8px;top:50%;transform:translateY(-50%)}.anxiety-next{right:8px;top:50%;transform:translateY(-50%)}
 .anxiety-counter{position:absolute;bottom:14px;color:#fff;font:14px sans-serif}
 @media(max-width:650px){.anxiety-gallery{gap:6px}.anxiety-lightbox{padding:55px 38px}.anxiety-lightbox button{width:35px;font-size:32px}}
+
+/* 2026: švari, neserifinė, responsyvi estetika */
+:root{--bg:#f6f6f4;--ink:#202124;--muted:#62666b;--accent:#343a40;--line:#e0e1e1}
+body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue",Arial,sans-serif;transition:background-color 2.8s ease,color .5s ease}
+h1,h2,h3,.lead,header>a,.exhibit-visual div,.portrait-placeholder span{font-family:inherit}
+h1,h2{font-weight:600;letter-spacing:-.055em}h3{font-weight:550}
+header>a{font-weight:650;letter-spacing:-.045em}
+.card img,.artwork img,.hero-portrait img,.exhibit-photo img,.anxiety-gallery img,.holiday-link img,.about-photo{filter:grayscale(1);transition:filter .65s ease,transform .4s ease}
+.card img:hover,.artwork:hover img,.hero-portrait img:hover,.exhibit-photo img:hover,.anxiety-gallery-item:hover img,.holiday-link img:hover,.about-photo:hover{filter:grayscale(0)}
+.about-photo{width:100%;height:auto;max-height:700px;object-fit:cover;display:block}
+@media(hover:none){.card img:active,.artwork img:active,.hero-portrait img:active,.exhibit-photo img:active,.anxiety-gallery img:active,.about-photo:active{filter:grayscale(0)}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}

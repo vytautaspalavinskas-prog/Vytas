@@ -1,0 +1,16 @@
+NOMEDOS SVETAINĖS REDAGAVIMAS
+
+1. Įkelkite VISĄ šio archyvo turinį į GitHub saugyklą (ne patį ZIP).
+2. Netlify: prijunkite šią GitHub saugyklą kaip deploy šaltinį (Publish directory: /, Build command: tuščia).
+3. Atidarykite https://app.pagescms.org/ ir prisijunkite su GitHub.
+4. Pasirinkite saugyklą ir redaguokite LT arba EN puslapį.
+5. Išsaugojus GitHub pakeitimus, Netlify automatiškai atnaujins svetainę.
+
+PASTABOS:
+- Esamas svetainės dizainas ir puslapių struktūra išsaugoti.
+- Turinys valdomas content/*.json failuose.
+- HTML teksto laukuose yra ir HTML žymos (pvz., <strong>), jų netrinkite, jei reikia išlaikyti formatavimą.
+- Kai kurios nuotraukos vis dar gali būti įkeliamos iš išorinių serverių.
+- Naujiems galerijos objektams ir naujiems puslapiams reikia papildomo struktūrinio pritaikymo.
+- Pages CMS nėra tiesioginis puslapio WYSIWYG redaktorius: redaguojami laukai.
+- Nepakanka tiesiog įkelti ZIP į Netlify: norint išsaugoti pakeitimus per CMS būtina GitHub integracija.

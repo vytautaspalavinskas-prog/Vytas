@@ -1,0 +1,15 @@
+NOMEDA MARČĖNAITĖ — SVETAINĖS DIEGIMAS
+
+1. Išskleiskite ZIP. GitHub saugykloje „Vytas“ įkelkite VISUS failus ir aplankus iš šio ZIP (įskaitant en/, content/, .pages.yml).
+2. Netlify esamame projekte nomedos.lt prijunkite šią GitHub saugyklą, šaką main.
+3. Build command palikite tuščią; Publish directory: . (projekto šaknis).
+4. Patikrinkite, ar diegimas sėkmingas, ar veikia nomedos.lt, /en/, galerija ir kontaktų forma.
+5. Redagavimas: https://app.pagescms.org/ — prisijunkite per GitHub, pasirinkite Vytas saugyklą.
+
+PASTABOS
+• Angliški puslapiai yra en/ aplanke.
+• Kūrybos galerijos 16 fotografijų vis dar gaunamos iš išorinio Wix medijos serverio; jei pasikeistų jų nuorodos, nuotraukos gali dingti.
+• Kontaktų forma naudoja Netlify Forms; patikrinkite, ar Netlify ją aptinka ir ar nustatyti pranešimai el. paštu.
+• Dizainas naudoja sistemos sans-serif šriftus (Apple įrenginiuose — San Francisco, kitur artimiausią atitikmenį).
+• Puslapio tekstas redaguojamas per Pages CMS; struktūriniai pakeitimai atliekami HTML/CSS.
+• Nekeiskite domeno DNS įrašų vien dėl GitHub integracijos.
