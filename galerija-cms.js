@@ -19,7 +19,10 @@ document.addEventListener('DOMContentLoaded', async () => {
       const img = document.createElement('img');
       img.loading = 'lazy';
       img.decoding = 'async';
-      img.src = item.image || '';
+      const imagePath = item.image || '';
+img.src = imagePath.startsWith('/media/')
+  ? new URL(imagePath.slice(1), new URL('.', document.baseURI)).href
+  : imagePath;
       img.alt = (english ? item.title_en : item.title_lt) || item.title_lt || '';
       img.addEventListener('error', () => {
         img.style.display = 'none';
