@@ -1,0 +1,11 @@
+NOMEDOS GALERIJOS VALDYMAS
+
+1. Įkelkite visus šio archyvo failus į GitHub saugyklos šaknį, išsaugodami aplankus content, en ir media.
+2. Pages CMS atsidarykite „Galerijos kūriniai · pridėti / redaguoti“.
+3. Lauke „Kūriniai“ spauskite Add item (Pridėti).
+4. Užpildykite unikalų ID, lietuvišką / anglišką pavadinimą, aprašymus, pasirinkite nuotrauką ir kategoriją.
+5. Įjunkite „Rodyti svetainėje“ ir spauskite Save.
+6. Palaukite Netlify automatinio diegimo.
+
+Svarbu: esami 16 kūrinių perkelti į content/galerija.json.
+Jei Pages CMS nepriima konfigūracijos, patikrinkite konkrečios Pages CMS versijos palaikomus laukų tipus.
