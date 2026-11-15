@@ -1793,7 +1793,7 @@ content:
     fields:
       - name: title
         label: Kūrinio pavadinimas
-        type: string
+       type: text
       - name: description
         label: Kūrinio aprašymas
         type: text
