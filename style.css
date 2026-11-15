@@ -164,12 +164,21 @@ body:has(.hero-with-portrait) .button {
     padding: 55px 0;
   }
 }
-/* NOMEDA — asimetrine meno galerija */
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 28px;
-  align-items: start;
+
+/* NOMEDA — vienodo dydzio galerija */
+.gallery-grid > .artwork img {
+  filter: grayscale(100%);
+  transition: filter 0.65s ease;
+}
+
+.gallery-grid > .artwork:hover img {
+  filter: grayscale(0%);
+}
+
+@media (hover: none) {
+  .gallery-grid > .artwork img {
+    filter: none;
+  }
 }
 
 .gallery-grid > .artwork {
