@@ -187,3 +187,43 @@ body:has(.hero-with-portrait) .button {
     transition: none;
   }
 }
+/* NOMEDA — senojo galerijos dizaino atkurimas */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.gallery-grid > .artwork,
+.gallery-grid > .artwork:nth-child(n) {
+  grid-column: auto;
+  background: #fff;
+  border: 1px solid #e9e3da;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.gallery-grid > .artwork img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: contain;
+  background: #f3eee7;
+}
+
+.gallery-grid > .artwork .details {
+  padding: 18px;
+}
+
+@media (max-width: 800px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+}
