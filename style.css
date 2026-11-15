@@ -57,3 +57,110 @@ header>a{font-weight:650;letter-spacing:-.045em}
 .about-photo{width:100%;height:auto;max-height:700px;object-fit:cover;display:block}
 @media(hover:none){.card img:active,.artwork img:active,.hero-portrait img:active,.exhibit-photo img:active,.anxiety-gallery img:active,.about-photo:active{filter:grayscale(0)}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+
+/* NOMEDA — pagrindinio puslapio atnaujinimas */
+
+body:has(.hero-with-portrait) header {
+  border-bottom: 1px solid rgba(0,0,0,.08);
+  padding-top: 26px;
+  padding-bottom: 26px;
+}
+
+body:has(.hero-with-portrait) header > a {
+  font-size: 23px;
+  font-weight: 650;
+  letter-spacing: -.055em;
+}
+
+.hero-with-portrait {
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(30px, 6vw, 100px);
+  min-height: 76vh;
+  padding: 55px 0 90px;
+  align-items: center;
+}
+
+.hero-with-portrait h1 {
+  font-size: clamp(58px, 7.5vw, 112px);
+  font-weight: 600;
+  line-height: .98;
+  letter-spacing: -.075em;
+  max-width: 700px;
+}
+
+.hero-with-portrait .lead {
+  font-size: clamp(18px, 2vw, 25px);
+  font-weight: 400;
+  line-height: 1.5;
+  max-width: 520px;
+  color: var(--muted);
+}
+
+.hero-portrait {
+  width: 100%;
+  max-width: none;
+  overflow: hidden;
+}
+
+.hero-portrait img {
+  width: 100%;
+  height: min(72vh, 740px);
+  max-height: none;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center 30%;
+  filter: grayscale(100%);
+  transition: filter .8s ease, transform 1s ease;
+}
+
+.hero-portrait:hover img {
+  filter: grayscale(0);
+  transform: scale(1.025);
+}
+
+body:has(.hero-with-portrait) section {
+  padding: 90px 0;
+}
+
+body:has(.hero-with-portrait) section h2 {
+  font-size: clamp(38px, 5vw, 70px);
+  letter-spacing: -.06em;
+}
+
+body:has(.hero-with-portrait) .card {
+  border-top: 1px solid var(--line);
+  background: transparent;
+}
+
+body:has(.hero-with-portrait) .card img {
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+}
+
+body:has(.hero-with-portrait) .button {
+  border-radius: 0;
+  transition: background .3s ease, color .3s ease;
+}
+
+@media (max-width: 750px) {
+  .hero-with-portrait {
+    grid-template-columns: 1fr;
+    min-height: auto;
+    gap: 35px;
+    padding: 45px 0 65px;
+  }
+
+  .hero-with-portrait h1 {
+    font-size: clamp(54px, 12vw, 80px);
+  }
+
+  .hero-portrait img {
+    height: auto;
+    max-height: 650px;
+  }
+
+  body:has(.hero-with-portrait) section {
+    padding: 55px 0;
+  }
+}
