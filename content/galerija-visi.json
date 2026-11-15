@@ -12,17 +12,6 @@
       "published": true
     },
     {
-      "id": "cms-pavadinimas-lietuviskai",
-      "title_lt": "pavadinimas lietuviškai",
-      "title_en": "pavadinimas angliškai",
-      "details_lt": "aprašymas lietuviškai",
-      "details_en": "aprašymas angliškai",
-      "image": "/media/JULIUS-1.jpg",
-      "category": "Skulptūra",
-      "order": 1,
-      "published": true
-    },
-    {
       "id": "cms-artvilnius",
       "title_lt": "ArtVilnius",
       "title_en": "ArtVilnius",
