@@ -12,23 +12,23 @@
       "published": true
     },
     {
-      "id": "cms-kurinys-01",
-      "title_lt": "Myli – nemyli",
-      "title_en": "Loves me, loves me not",
-      "details_lt": "2026 · Baltas molis, glazūros",
-      "details_en": "2026 &middot; White clay, glazes",
-      "image": "/media/myli_nemyli.avif",
-      "category": "nauji",
-      "order": 2,
-      "published": true
-    },
-    {
       "id": "cms-kurinys-02",
       "title_lt": "Nerimo valgymas",
       "title_en": "Eating Anxiety",
       "details_lt": "2026 · Baltas molis, juodas angobas",
       "details_en": "2026 &middot; White clay, black engobe",
       "image": "/media/nerimo_valgymas.avif",
+      "category": "nauji",
+      "order": 2,
+      "published": true
+    },
+    {
+      "id": "cms-kurinys-01",
+      "title_lt": "Myli – nemyli",
+      "title_en": "Loves me, loves me not",
+      "details_lt": "2026 · Baltas molis, glazūros",
+      "details_en": "2026 &middot; White clay, glazes",
+      "image": "/media/myli_nemyli.avif",
       "category": "nauji",
       "order": 3,
       "published": true
