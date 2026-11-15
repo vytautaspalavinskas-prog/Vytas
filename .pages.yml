@@ -1786,3 +1786,27 @@ content:
   - name: text_020
     label: Link · Contact
     type: text
+    
+  - name: galerija
+    label: LT · Galerija · Nauji kūriniai
+    type: collection
+    path: content/galerija
+    fields:
+      - name: title
+        label: Kūrinio pavadinimas
+        type: string
+      - name: description
+        label: Kūrinio aprašymas
+        type: text
+      - name: category
+        label: Kategorija
+        type: select
+        options:
+          - Keramika
+          - Skulptūra
+          - Objektai
+          - Kita
+      - name: image
+        label: Kūrinio fotografija
+        type: image
+
