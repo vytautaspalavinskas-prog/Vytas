@@ -1798,19 +1798,19 @@ content:
     - name: description
       label: Kūrinio aprašymas
       type: text
-- name: category
-  label: Kategorija
-  type: select
-  options:
-    values:
-      - label: Keramika
-        value: Keramika
-      - label: Skulptūra
-        value: Skulptūra
-      - label: Objektai
-        value: Objektai
-      - label: Kita
-        value: Kita
+    - name: category
+      label: Kategorija
+      type: select
+      options:
+        values:
+          - label: Keramika
+            value: Keramika
+          - label: Skulptūra
+            value: Skulptūra
+          - label: Objektai
+            value: Objektai
+          - label: Kita
+            value: Kita
     - name: image
       label: Kūrinio fotografija
       type: image
@@ -1818,4 +1818,3 @@ content:
     fields:
       - title
       - category
-
