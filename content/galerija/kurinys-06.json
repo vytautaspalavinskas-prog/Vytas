@@ -1,0 +1,11 @@
+{
+  "title": "Tortinė",
+  "description": "Keramika",
+  "title_en": "Cake Stand",
+  "description_en": "Ceramics",
+  "order": 7,
+  "category": "archyvas",
+  "period": "archyvas",
+  "image": "/media/tortine.avif",
+  "published": true
+}
