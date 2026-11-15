@@ -33,7 +33,19 @@ document.addEventListener('DOMContentLoaded', async () => {
       const heading = document.createElement('h3');
       heading.textContent = (english ? item.title_en : item.title_lt) || item.title_lt || '';
       const description = document.createElement('p');
-      description.textContent = (english ? item.details_en : item.details_lt) || item.details_lt || '';
+      
+const decodeEntities = (value) => {
+  const textarea = document.createElement('textarea');
+  textarea.innerHTML = value || '';
+  return textarea.value;
+};
+
+description.textContent = decodeEntities(
+  (english ? item.details_en : item.details_lt)
+  || item.details_lt
+  || ''
+);
+
       details.append(heading, description);
       article.append(img, details);
       grid.append(article);
