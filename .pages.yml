@@ -1803,10 +1803,14 @@ content:
   type: select
   options:
     values:
-      - Keramika
-      - Skulptūra
-      - Objektai
-      - Kita
+      - label: Keramika
+        value: Keramika
+      - label: Skulptūra
+        value: Skulptūra
+      - label: Objektai
+        value: Objektai
+      - label: Kita
+        value: Kita
     - name: image
       label: Kūrinio fotografija
       type: image
