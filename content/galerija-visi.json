@@ -1,6 +1,17 @@
 {
   "artworks": [
     {
+      "id": "cms-artvilnius",
+      "title_lt": "ArtVilnius",
+      "title_en": "ArtVilnius",
+      "details_lt": "Parodos ekspozicija",
+      "details_en": "Exhibition display",
+      "image": "/media/expo-2.jpg",
+      "category": "nauji",
+      "order": 1,
+      "published": true
+    },
+    {
       "id": "kurinys-01",
       "title_lt": "Myli – nemyli",
       "title_en": "Loves me, loves me not",
@@ -158,16 +169,6 @@
       "details_en": "Chamotte clay &middot; 26 &times; 16 cm",
       "image": "/media/smilkykle.avif",
       "category": "archyvas",
-      "published": true
-    },
-    {
-      "id": "cms-artvilnius",
-      "title_lt": "ArtVilnius",
-      "title_en": "ArtVilnius",
-      "details_lt": "Parodos ekspozicija",
-      "details_en": "Exhibition display",
-      "image": "/media/expo-2.jpg",
-      "category": "nauji",
       "published": true
     }
   ]
