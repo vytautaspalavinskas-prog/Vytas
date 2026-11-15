@@ -1,4 +1,4 @@
-media:
+    media:
   input: media
   output: /media
 content:
@@ -1804,9 +1804,9 @@ content:
     - name: description_en
       label: Kūrinio aprašymas (EN)
       type: text
-- name: order
-  label: Eiliškumas galerijoje
-  type: text
+    - name: order
+      label: Eiliškumas galerijoje (1 = pirmas)
+      type: number
     - name: category
       label: Kategorija
       type: select
@@ -1827,3 +1827,4 @@ content:
     fields:
       - title
       - category
+    
