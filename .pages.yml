@@ -1789,7 +1789,8 @@ content:
     - name: galerija
     label: LT · Galerija · Nauji kūriniai
     type: collection
-    path: content/galerija
+        path: content/galerija
+    filename: "{primary}.json"
     fields:
       - name: title
         label: Kūrinio pavadinimas
@@ -1808,7 +1809,6 @@ content:
       - name: image
         label: Kūrinio fotografija
         type: image
-    filename: "{primary}.json"
     view:
       fields:
         - title
