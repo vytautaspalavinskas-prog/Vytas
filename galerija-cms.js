@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       img.loading = 'lazy';
       img.decoding = 'async';
 const imagePath = item.image || '';
-const siteRoot = new URL('/Vytas/', window.location.origin); // Bendras fotografijų katalogas
+const siteRoot = new URL('/', window.location.origin); // Bendras fotografijų katalogas
 img.src = imagePath.startsWith('/media/')
   ? new URL(imagePath.slice(1), siteRoot).href
   : imagePath;
