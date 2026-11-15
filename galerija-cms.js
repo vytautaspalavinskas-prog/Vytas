@@ -19,9 +19,10 @@ document.addEventListener('DOMContentLoaded', async () => {
       const img = document.createElement('img');
       img.loading = 'lazy';
       img.decoding = 'async';
-      const imagePath = item.image || '';
+const imagePath = item.image || '';
+const siteRoot = new URL('/Vytas/', window.location.origin);
 img.src = imagePath.startsWith('/media/')
-  ? new URL(imagePath.slice(1), new URL('.', document.baseURI)).href
+  ? new URL(imagePath.slice(1), siteRoot).href
   : imagePath;
       img.alt = (english ? item.title_en : item.title_lt) || item.title_lt || '';
       img.addEventListener('error', () => {
