@@ -1,17 +1,6 @@
 {
   "artworks": [
     {
-      "id": "cms-artvilnius",
-      "title_lt": "ArtVilnius",
-      "title_en": "ArtVilnius",
-      "details_lt": "Parodos ekspozicija",
-      "details_en": "Exhibition display",
-      "image": "/media/expo-2.jpg",
-      "category": "Keramika",
-      "order": 1,
-      "published": true
-    },
-    {
       "id": "cms-kurinys-01",
       "title_lt": "Myli – nemyli",
       "title_en": "Loves me, loves me not",
@@ -19,6 +8,17 @@
       "details_en": "2026 &middot; White clay, glazes",
       "image": "/media/myli_nemyli.avif",
       "category": "nauji",
+      "order": 1,
+      "published": true
+    },
+    {
+      "id": "cms-artvilnius",
+      "title_lt": "ArtVilnius",
+      "title_en": "ArtVilnius",
+      "details_lt": "Parodos ekspozicija",
+      "details_en": "Exhibition display",
+      "image": "/media/expo-2.jpg",
+      "category": "Keramika",
       "order": 2,
       "published": true
     },
@@ -34,23 +34,23 @@
       "published": true
     },
     {
-      "id": "cms-kurinys-03",
-      "title_lt": "Naktis, kai laukiau tavęs",
-      "title_en": "The Night I Waited for You",
-      "details_lt": "2026 · Baltas molis, pigmentai, sidabras",
-      "details_en": "2026 &middot; White clay, pigments, silver",
-      "image": "/media/naktis_kai_laukiau_taves.avif",
-      "category": "nauji",
-      "order": 4,
-      "published": true
-    },
-    {
       "id": "cms-kurinys-04",
       "title_lt": "Liepiamoji nuosaka",
       "title_en": "Imperative Mood",
       "details_lt": "2025 · Juodas molis, 1200 °C",
       "details_en": "2025 &middot; Black clay, 1200 &deg;C",
       "image": "/media/liepiamoji_nuosaka.avif",
+      "category": "nauji",
+      "order": 4,
+      "published": true
+    },
+    {
+      "id": "cms-kurinys-03",
+      "title_lt": "Naktis, kai laukiau tavęs",
+      "title_en": "The Night I Waited for You",
+      "details_lt": "2026 · Baltas molis, pigmentai, sidabras",
+      "details_en": "2026 &middot; White clay, pigments, silver",
+      "image": "/media/naktis_kai_laukiau_taves.avif",
       "category": "nauji",
       "order": 5,
       "published": true
