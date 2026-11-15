@@ -5,5 +5,6 @@
   "description_en": "Exhibition display",
   "order": 2,
   "category": "Keramika",
-  "image": "/media/expo-2.jpg"
+  "image": "/media/expo-2.jpg",
+  "published": true
 }
