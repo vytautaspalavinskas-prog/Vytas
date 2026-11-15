@@ -1798,6 +1798,12 @@ content:
     - name: description
       label: Kūrinio aprašymas
       type: text
+    - name: title_en
+      label: Kūrinio pavadinimas (EN)
+      type: text
+    - name: description_en
+      label: Kūrinio aprašymas (EN)
+      type: text
     - name: category
       label: Kategorija
       type: select
