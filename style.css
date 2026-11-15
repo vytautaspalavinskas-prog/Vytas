@@ -227,3 +227,36 @@ body:has(.hero-with-portrait) .button {
     grid-template-columns: 1fr;
   }
 }
+/* NOMEDA — Molinėjimų keturių fotografijų galerija */
+
+.molinejimai-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  width: 100%;
+}
+
+.molinejimai-gallery img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  filter: grayscale(100%);
+  transition: filter 0.5s ease;
+}
+
+.molinejimai-gallery img:hover {
+  filter: grayscale(0%);
+}
+
+@media (max-width: 520px) {
+  .molinejimai-gallery {
+    gap: 8px;
+  }
+}
+
+@media (hover: none) {
+  .molinejimai-gallery img {
+    filter: none;
+  }
+}
