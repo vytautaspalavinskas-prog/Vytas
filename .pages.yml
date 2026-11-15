@@ -1786,7 +1786,7 @@ content:
   - name: text_020
     label: Link · Contact
     type: text
-  - name: galerija
+    - name: galerija
     label: LT · Galerija · Nauji kūriniai
     type: collection
     path: content/galerija
