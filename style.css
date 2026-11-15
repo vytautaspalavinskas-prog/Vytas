@@ -257,7 +257,7 @@ body:has(.hero-with-portrait) .button {
 
 @media (hover: none) {
   .molinejimai-gallery img {
-    filter: none;
+    filter: grayscale(100%);
   }
 }
 /* NOMEDA — Puodeliavimo fotografijų galerija */
@@ -290,6 +290,6 @@ body:has(.hero-with-portrait) .button {
 
 @media (hover: none) {
   .puodeliavimas-gallery img {
-    filter: none;
+    filter: grayscale(100%);
   }
 }
