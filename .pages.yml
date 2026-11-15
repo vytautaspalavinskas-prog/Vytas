@@ -1804,10 +1804,9 @@ content:
     - name: description_en
       label: Kūrinio aprašymas (EN)
       type: text
-    - name: order
-      label: Eiliškumas galerijoje
-      type: number
-      default: 100
+- name: order
+  label: Eiliškumas galerijoje
+  type: text
     - name: category
       label: Kategorija
       type: select
