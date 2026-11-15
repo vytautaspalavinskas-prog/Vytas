@@ -1798,14 +1798,15 @@ content:
     - name: description
       label: Kūrinio aprašymas
       type: text
-    - name: category
-      label: Kategorija
-      type: select
-      options:
-        - Keramika
-        - Skulptūra
-        - Objektai
-        - Kita
+- name: category
+  label: Kategorija
+  type: select
+  options:
+    values:
+      - Keramika
+      - Skulptūra
+      - Objektai
+      - Kita
     - name: image
       label: Kūrinio fotografija
       type: image
