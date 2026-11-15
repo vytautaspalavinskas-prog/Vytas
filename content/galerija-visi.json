@@ -1,0 +1,174 @@
+{
+  "artworks": [
+    {
+      "id": "kurinys-01",
+      "title_lt": "Myli – nemyli",
+      "title_en": "Loves me, loves me not",
+      "details_lt": "2026 · Baltas molis, glazūros",
+      "details_en": "2026 &middot; White clay, glazes",
+      "image": "/media/myli_nemyli.avif",
+      "category": "nauji",
+      "published": true
+    },
+    {
+      "id": "kurinys-02",
+      "title_lt": "Nerimo valgymas",
+      "title_en": "Eating Anxiety",
+      "details_lt": "2026 · Baltas molis, juodas angobas",
+      "details_en": "2026 &middot; White clay, black engobe",
+      "image": "/media/nerimo_valgymas.avif",
+      "category": "nauji",
+      "published": true
+    },
+    {
+      "id": "kurinys-03",
+      "title_lt": "Naktis, kai laukiau tavęs",
+      "title_en": "The Night I Waited for You",
+      "details_lt": "2026 · Baltas molis, pigmentai, sidabras",
+      "details_en": "2026 &middot; White clay, pigments, silver",
+      "image": "/media/naktis_kai_laukiau_taves.avif",
+      "category": "nauji",
+      "published": true
+    },
+    {
+      "id": "kurinys-04",
+      "title_lt": "Liepiamoji nuosaka",
+      "title_en": "Imperative Mood",
+      "details_lt": "2025 · Juodas molis, 1200 °C",
+      "details_en": "2025 &middot; Black clay, 1200 &deg;C",
+      "image": "/media/liepiamoji_nuosaka.avif",
+      "category": "nauji",
+      "published": true
+    },
+    {
+      "id": "kurinys-05",
+      "title_lt": "Juodas dubuo su gėlėtu dugnu",
+      "title_en": "Black Bowl with a Floral Base",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/Juodas_dubuo.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-06",
+      "title_lt": "Tortinė",
+      "title_en": "Cake Stand",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/tortine.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-07",
+      "title_lt": "Dėžutė papuošalams",
+      "title_en": "Jewellery Box",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/dezute_papuosalams.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-08",
+      "title_lt": "Melsva sūrinė",
+      "title_en": "Blue Cheese Dish",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/melsva_surine.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-09",
+      "title_lt": "Dubuo su ananasu",
+      "title_en": "Bowl with Pineapple",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/dubuo_su_ananasu.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-10",
+      "title_lt": "Šeimos židinys",
+      "title_en": "Family Hearth",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/papuosalu_dezute.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-11",
+      "title_lt": "Juodas dubuo su gėle",
+      "title_en": "Black Bowl with a Flower",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/juodas_dubuo_su_gele.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-12",
+      "title_lt": "Lėkštė su ornamentu",
+      "title_en": "Decorative Plate",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/lekste_su_ornamentu.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-13",
+      "title_lt": "Šeimos dubuo",
+      "title_en": "Family Bowl",
+      "details_lt": "Keramika",
+      "details_en": "Ceramics",
+      "image": "/media/seimos_dubuo.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-14",
+      "title_lt": "Smilkyklė",
+      "title_en": "Incense Burner",
+      "details_lt": "Porcelianas · 9 × 10 cm",
+      "details_en": "Porcelain &middot; 9 &times; 10 cm",
+      "image": "/media/dubuo_su_augalu.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-15",
+      "title_lt": "Papuošalų dėžutė",
+      "title_en": "Jewellery Box",
+      "details_lt": "Raudonas molis · 28 × 19 cm",
+      "details_en": "Red clay &middot; 28 &times; 19 cm",
+      "image": "/media/baltas_dubuo.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "kurinys-16",
+      "title_lt": "Dekoratyvinė skulptūra",
+      "title_en": "Decorative Sculpture",
+      "details_lt": "Šamotas · 26 × 16 cm",
+      "details_en": "Chamotte clay &middot; 26 &times; 16 cm",
+      "image": "/media/smilkykle.avif",
+      "category": "archyvas",
+      "published": true
+    },
+    {
+      "id": "cms-artvilnius",
+      "title_lt": "ArtVilnius",
+      "title_en": "ArtVilnius",
+      "details_lt": "Parodos ekspozicija",
+      "details_en": "Parodos ekspozicija",
+      "image": "/media/expo-2.jpg",
+      "category": "nauji",
+      "published": true
+    }
+  ]
+}
