@@ -1,6 +1,8 @@
 {
   "title": "ArtVilnius",
   "description": "Parodos ekspozicija",
+  "title_en": "ArtVilnius",
+  "description_en": "Exhibition display",
   "category": "Keramika",
   "image": "/media/expo-2.jpg"
 }
